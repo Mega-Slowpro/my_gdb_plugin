@@ -3,7 +3,7 @@ This gdb plugin provides some extra shortcut commands to make it more convenient
 Before running the script, make sure you have GEF - GDB Enhanced Features installed. 
 
 First, if you feel like typing *set $zf = 0* to bypass the conditional jump is a little annoying when you have to do it a lot of times,
-Then you probably need the following commands to make your life easier:
+then you probably need the following commands to make your life easier:
 ***cf
 pf
 af
