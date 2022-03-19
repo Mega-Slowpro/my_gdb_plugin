@@ -1,4 +1,3 @@
-# CSE598-Project1
 This gdb plugin provides some extra shortcut commands to make it more convenient when solving CTF challenges or whatever your program is.
 Before running the script, make sure you have GEF - GDB Enhanced Features installed. 
 
